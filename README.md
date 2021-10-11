@@ -1,3 +1,3 @@
 # programacion
 Presentacion
-Mi nonbre es Paola Bello Soy de Bogotá 
+Mi nombre es Paola Bello Soy de Bogotá tengo 19 años me gusta la danza
