@@ -26,5 +26,4 @@ Desayunar
 Conectarme a la clase 
 FIN. 
 
-     
-El profesor no hace ni verga 
+      
