@@ -1,6 +1,6 @@
 "Precio del zapato"= PR
  Leer PR
- Hacer operación PO=P*19/ 100
- Sumar P+PR=PF
+ Hacer operación PO=PR*19/ 100
+ Sumar PO+PR=PF
  "El valor del zapato es" PF
     
