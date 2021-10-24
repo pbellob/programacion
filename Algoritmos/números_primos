@@ -1,0 +1,17 @@
+Escribir "Ingresa el número"
+ leer N
+¿Es un número?
+ si:
+ N%2
+   ¿Modulo==0?
+   Si:
+     "Es número par"
+   Si no:
+    "Es número impar"
+ Si no:
+  "Por favor ingresa un número"
+  Fin 
+   
+    
+    
+     
