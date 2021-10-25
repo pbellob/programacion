@@ -1,0 +1,23 @@
+Ingresar N1, numero N2
+ N1%N2=n1
+ ¿n1==0?
+  Si:
+   N2 es el MDC
+ Sino: 
+   N2%n1=n2
+   ¿n2==0?
+    Si:
+    n2 es el MDC
+    Sino:
+    n1%n2=n3
+    ¿n3==0?
+     Si:
+     n3 es el MDC
+     Si no: 
+    Repetir 
+    
+Fin 
+    
+    
+
+ 
