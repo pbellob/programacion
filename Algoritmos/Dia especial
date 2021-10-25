@@ -1,0 +1,6 @@
+Ingresar día, mes y año
+Año%4
+ ¿MOd=0?
+ SI:
+  "Año bisiesto"
+   Ene=c
